@@ -1,0 +1,6 @@
+{
+  "name": "MathMaster THCS - Đấu Trường Toán Học & Quản Lý Lớp Học",
+  "description": "Hệ thống kiến thức trọng tâm Toán 6-7-8-9 chuẩn GDPT, thi đua tự học tại nhà với nhiệm vụ hàng ngày, đề thi thử giữa & cuối kì, bài tập về nhà và cổng phụ huynh bảo mật.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
